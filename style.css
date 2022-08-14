@@ -41,10 +41,10 @@ h2{
     }
     h1{
        margin: 0 auto;
-       font-size: 1rem;
+       font-size: 2rem;
     }
     h2{
         margin: 0 auto;
-        font-size: .7rem;
+        font-size: 1.5rem;
     }
 }
