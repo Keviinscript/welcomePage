@@ -34,3 +34,15 @@ h2{
       font-size: 6rem;  
     }
 }
+
+@media screen and (max-width:500px){
+    #time{
+        font-size: 4.5rem;
+    }
+    h1{
+       margin: auto 0;
+    }
+    h2{
+        margin: auto 0;
+    }
+}
